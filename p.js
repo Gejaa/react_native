@@ -1,0 +1,16 @@
+ "dependencies": {
+    "@expo/webpack-config": "^0.17.0",
+    "@react-navigation/native-stack": "^6.9.1",
+    "axios": "^0.27.2",
+    "expo": "~46.0.9",
+    "expo-status-bar": "~1.4.0",
+    "expo-updates": "~0.14.5",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-native": "0.69.5",
+    "react-native-safe-area-context": "4.3.1",
+    "react-native-screens": "~3.15.0",
+    "react-native-web": "~0.18.7",
+    "react-native-get-random-values": "^1.4.0",
+    "uuid": "^9.0.0"
+  },
